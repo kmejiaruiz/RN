@@ -105,6 +105,3 @@ Root/
 - **Persistencia**: Local (AsyncStorage); no sincronizada entre dispositivos.
 - **Mejoras Futuras**: Backend real (Firebase/Firestore), push notifications (Expo/FCM), escaneo ISBN (react-native-camera), autenticación segura.
 - **Limitaciones**: Sin manejo de vencimientos automáticos (e.g., alertas overdue). Stock simple (no maneja múltiples copias detalladas).
-- **Desarrollado**: Basado en iteraciones, con fecha actual November 28, 2025.
-
-Para contribuciones o issues, clona el repo y PR. ¡Disfruta gestionando tu librería!
