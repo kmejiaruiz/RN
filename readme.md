@@ -1,5 +1,5 @@
 ## Descripción
-LibraryApp es una aplicación móvil desarrollada en React Native para la gestión de una librería o biblioteca. Permite registrar, listar y detallar libros, con integración a la API de Google Books para búsquedas automáticas. Incluye un sistema de roles (admin y user), gestión de préstamos con aprobaciones, stock limitado, notificaciones y persistencia de datos local. La app simula una base de datos usando AsyncStorage para almacenar libros y notificaciones en formato JSON.
+Aplicación móvil desarrollada en React Native para la gestión de una librería o biblioteca. Permite registrar, listar y detallar libros, con integración a la API de Google Books para búsquedas automáticas. Incluye un sistema de roles (admin y user), gestión de préstamos con aprobaciones, stock limitado, notificaciones y persistencia de datos local. La app simula una base de datos usando AsyncStorage para almacenar libros y notificaciones en formato JSON.
 
 La app está diseñada para:
 - Admins: Registrar/editar/eliminar libros, aprobar/rechazar préstamos, definir stock y vigencia.
