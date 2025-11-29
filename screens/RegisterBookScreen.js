@@ -6,7 +6,7 @@ import { Formik } from 'formik';
 import * as Yup from 'yup';
 
 // Replace with your actual Google Books API key
-const GOOGLE_BOOKS_API_KEY = 'AIzaSyAsTGDiVPBVRy5zdMi-MLJ_JIbVqvgxd5I'; // Obtain from https://console.cloud.google.com/apis/library/books.googleapis.com
+const GOOGLE_BOOKS_API_KEY = 'yourapikey'; // Obtain from https://console.cloud.google.com/apis/library/books.googleapis.com
 
 // Function to validate ISBN (10 or 13) - kept optional, but not used for search now
 const isValidISBN = (value) => {
