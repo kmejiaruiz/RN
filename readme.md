@@ -77,7 +77,7 @@ Instala con `npm install` o `yarn add`:
 
 ## Estructura de Directorios
 ```
-LibraryApp/
+Root/
 ├── App.js  # Entrada principal, estado global, navegación
 └── screens/
     ├── LoginScreen.js  # Login form
